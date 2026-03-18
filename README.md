@@ -17,7 +17,7 @@ A passionate Full Stack & DevOps Engineer from India 🚀 with a strong commitme
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Live Streaming Application**
+- 🔭 I’m currently working on **devops project**
 - 🌱 I’m currently learning **Nginx & Firebase**
 - ☁️ Exploring **Cloud & DevOps ecosystem**
 - 📫 Reach me at **madhuldubey06@gmail.com**
