@@ -65,6 +65,16 @@ A passionate Full Stack & DevOps Engineer from India 🚀 with a strong commitme
 <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://www.ansible.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" width="40" height="40"/></a>
 </p>
+#### 🔐 DevSecOps & Security
+
+<p align="left">
+<a href="https://www.sonarqube.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="40" height="40"/>
+</a>
+<a href="https://aquasecurity.github.io/trivy/">
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="40" height="40"/>
+</a>
+</p>
 
 #### 📊 Monitoring & Tools
 <p align="left">
