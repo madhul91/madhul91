@@ -77,5 +77,5 @@ A passionate Full Stack & DevOps Engineer from India 🚀 with a strong commitme
 
 ### 📊 GitHub Stats:
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhul&show_icons=true&locale=en&layout=compact" alt="madhul" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhul91&show_icons=true&locale=en&layout=compact" alt="madhul" />
 </p>
