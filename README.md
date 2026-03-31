@@ -64,6 +64,9 @@ A passionate Full Stack & DevOps Engineer from India 🚀 with a strong commitme
 <a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40" height="40"/></a>
 <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://www.ansible.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" width="40" height="40"/></a>
+ <a href="https://nginx.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+</a> 
 </p>
 🔐 DevSecOps & Security
 
